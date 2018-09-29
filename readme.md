@@ -3,6 +3,9 @@ In this repo, a prototype to issue and verify academic certificates is presented
 
 <img src="https://github.com/jgresc/UZHBC/blob/master/public/images/Issuance.PNG?raw=true" width="750">
 
+## Documentation
+The client of UZHBC is a web application implemented with React. The root file App.js, which contains the different React components, is located in the `\src` folder. The respective components footer, index, navbar, introduction, issuance and verification are located in \lstinline{\src\components}. Issuance.js implements the issuance process and verification.js implements the verification process. The connection to the blockchain is implemented in the web3.js file, and is located in the `\src\utils` directory. Changes to the code can be recompiled by opening a console in the root folder and run `webpack --w`, which creates a bundle.js that can be found in \lstinline{\public\build}. All versions of the smart contract are located in the `\contracts` directory. However, these do not run on the client, but on the Rinkeby blockchain. All representation specific implementations can be found in the `\public\assets`. As mentioned above, the README.md describes further details about the prototype.
+
 ## Installation
 To install the the system, follow the listed steps:
 
