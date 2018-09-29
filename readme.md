@@ -1,5 +1,7 @@
 #  Academic certificate verification through Blockchain
-In this repo, a prototype to issue and verify academic certificates is presented.
+In this repo, a prototype to issue and verify academic certificates is presented. This project was tailor-made for the requirements of the University of Zurich (UZH), which is why the name UZHBC (Blockchain) was chosen.
+
+
 ![alt text](https://github.com/jgresc/UZHBC/blob/master/public/images/Issuance.PNG?raw=true)
 ## Installation
 To install the the system, follow the listed steps:
