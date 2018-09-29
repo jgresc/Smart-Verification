@@ -1,6 +1,6 @@
 #  Academic certificate verification through Blockchain
 In this repo, a prototype to issue and verify academic certificates is presented.
-
+![alt text] https://github.com/jgresc/UZHBC/blob/master/public/images/Issuance.PNG?raw=true
 ## Installation
 To install the the system, follow the listed steps:
 
